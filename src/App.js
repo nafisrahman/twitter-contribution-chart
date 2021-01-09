@@ -29,7 +29,7 @@ class App extends Component<{}, State> {
     leftPad: '@left_pad',
     dracula: 'Dracula',
     blue: 'Blue',
-    panda: 'Panda 🐼', 
+    panda: 'Panda 🐼',
     sunny: 'Sunny',
   }
   state = {
