@@ -19,15 +19,6 @@ export type CanvasData = {
   years: Array<Year>,
   contributions: Array<DayContribution>
 };
-export type ContributionsByYear = {
-  years: {
-    [string]: Year
-  },
-  days: {
-    [string]: DayContribution
-  },
-  errors: Array<TweetRawLines>
-};
 
 export type TweetRawLines = {
   expanded_urls: ?string,
@@ -38,5 +29,16 @@ export type TweetRawLines = {
   source: ?string,
   text: string,
   timestamp: string,
-  tweet_id: number
+  tweet_id: number,
+}
+
+export type ContributionsByYear = {
+  years: {
+    [string]: Year
+  },
+  days: {
+    [string]: DayContribution
+  },
+  errors: Array<TweetRawLines>
 };
+

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.21.1",
     "line-navigator": "^2.1.6",
     "papaparse": "^4.4.0",
     "react": "^16.4.0",
