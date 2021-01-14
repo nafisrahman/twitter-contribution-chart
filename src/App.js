@@ -7,8 +7,8 @@ import User from './User'
 // import { prepareToCanvasData } from './processData'
 // import { parseData } from './parseData'
 // import { type ContributionsByYear, type CanvasData } from './types'
-import './App.css'
-import './entireframework.min.css'
+// import './App.css'
+// import './entireframework.min.css'
 // import 'react-progress-bar-plus/lib/progress-bar.css'
 
 // type State = {
