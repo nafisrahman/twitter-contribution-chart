@@ -2,7 +2,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: "IBM Plex Mono";
+  font-family: 'IBM Plex Mono';
 }
 
 .hero {
@@ -23,7 +23,7 @@
 .Results .smallbtn {
   font-size: 0.8em;
   padding: 6px;
-  font-family: "IBM Plex Mono";
+  font-family: 'IBM Plex Mono';
 }
 
 .panel {
@@ -52,12 +52,12 @@
 .hero .btn {
   font-size: 1em;
   min-width: 50%;
-  font-family: "IBM Plex Mono";
+  font-family: 'IBM Plex Mono';
 }
 .hero input {
   background: white;
   font-size: 1em;
-  font-family: "IBM Plex Mono";
+  font-family: 'IBM Plex Mono';
 }
 .hero button {
   font-size: 1em;
